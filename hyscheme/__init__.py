@@ -1,0 +1,3 @@
+STDLIB = [
+          "hyscheme.core"
+          ]
